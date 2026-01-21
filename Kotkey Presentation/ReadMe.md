@@ -13,6 +13,11 @@ Haptic Feedback: Yazma hissini güçlendiren özel titreşim geri bildirimleri.
 
 Modern Teknoloji: Tamamen Kotlin dili ve güncel Android kütüphaneleriyle kodlandı.
 
+Ekran Görüntüleri
+![settings3](https://github.com/user-attachments/assets/53e0df31-1915-4bd4-98ae-e0b94b5196c5)
+![settings2](https://github.com/user-attachments/assets/e9980af1-20d7-4e85-8a8e-ddd931993995)
+![settings](https://github.com/user-attachments/assets/f14e1e9d-7705-4a05-b1a4-0445263ff756)
+
 🛠 Teknik Detaylar
 Dil: Kotlin
 
